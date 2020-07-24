@@ -10,6 +10,6 @@ https://a11y.legiec.io/
 ### 👾 And here is a link to my little game studio
 https://bodgingbear.dev
 
-### Contact 📫
+### 📫 Contact
 www: https://legiec.io/ \
 tt:  [@bibix1999](https://twitter.com/bibix1999)
