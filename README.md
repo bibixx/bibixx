@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Bartek and I'm a Senior Frontend Developer [@netguru](https://github.com/netguru/)
+I'm Bartek and I'm a Senior Frontend Developer [@netguru](https://github.com/netguru/) & co-founder of [@bodgingbear](https://github.com/bodgingbear)
 
 ### 💬 Here you can find some of my past talks
 * [WTF JS? [PL]](https://www.youtube.com/watch?v=PpkXrqdJKJo) ([Slides](https://slides.legiec.io/wtf-js/))
