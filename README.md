@@ -14,7 +14,7 @@ I'm Bartek and I'm a Senior Frontend Developer [@netguru](https://github.com/net
 * React Basics @ WarsawJS — [bibixx/warsawjs-workshop-20-flights-search](https://github.com/bibixx/warsawjs-workshop-20-flights-search)
 
 ### 👨🏻‍💻 Some Open Source I do
-* React Adobe — [bibixx/react-adobe-animate](https://github.com/bibixx/react-adobe-animate)
+* React Adobe Animate — [bibixx/react-adobe-animate](https://github.com/bibixx/react-adobe-animate)
 * Zdaj.se — [bibixx/zdaj-se-pjatk](https://github.com/bibixx/zdaj-se-pjatk)
 * Tab pinner — [bibixx/tab-pinner](https://github.com/bibixx/tab-pinner)
 * hexo-codepen — [bibixx/hexo-tag-codepen](https://github.com/bibixx/hexo-tag-codepen)
