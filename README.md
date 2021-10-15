@@ -13,10 +13,11 @@ I'm Bartek and I'm a Senior Frontend Developer [@netguru](https://github.com/net
 * Advanced React @ WarsawJS — [bibixx/warsawjs-workshop-21-zeppelin](https://github.com/bibixx/warsawjs-workshop-21-zeppelin)
 * React Basics @ WarsawJS — [bibixx/warsawjs-workshop-20-flights-search](https://github.com/bibixx/warsawjs-workshop-20-flights-search)
 
-### 👨🏻‍💻 Some open source I do
-* React Adobe Animate — [bibixx/react-adobe-animate](https://github.com/bibixx/react-adobe-animate)
-* Tab pinner — [bibixx/tab-pinner](https://github.com/bibixx/tab-pinner)
+### 👨🏻‍💻 Some Open Source I do
+* React Adobe — [bibixx/react-adobe-animate](https://github.com/bibixx/react-adobe-animate)
 * Zdaj.se — [bibixx/zdaj-se-pjatk](https://github.com/bibixx/zdaj-se-pjatk)
+* Tab pinner — [bibixx/tab-pinner](https://github.com/bibixx/tab-pinner)
+* hexo-codepen — [bibixx/hexo-tag-codepen](https://github.com/bibixx/hexo-tag-codepen)
 
 ### ♿ List of interesting resources about accessiblity
 https://a11y.legiec.io/
@@ -27,3 +28,6 @@ https://bodgingbear.dev
 ### 📫 Contact
 www: https://legiec.io/ \
 Twitter:  [@bibix1999](https://twitter.com/bibix1999)
+
+### 📈 My GitHub stats
+![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibixx&show_icons=true)
