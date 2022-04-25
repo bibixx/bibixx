@@ -8,6 +8,7 @@ I'm Bartek and I'm a Product Engineer [@craftdocs](https://craft.do) & co-founde
 * [SSR made easy – Next.js [EN]](https://www.youtube.com/watch?v=F2-I3FMreog)
 
 ### 👨🏻‍🏫 Materials from the workshops I have conducted
+* JavaScript for Every Level @ WarsawJS — [legiec.io/warsawjs-62](https://legiec.io/warsawjs-62)
 * JavaScript Basics @ BongoHive in Zambia 🇿🇲 — [bibixx/bongohive-js-workshops](https://github.com/bibixx/bongohive-js-workshops)
 * JavaScript Basics @ WarsawJS — [bibixx/warsawjs-workshop-36-js-basics](https://github.com/bibixx/warsawjs-workshop-36-js-basics)
 * Advanced React @ WarsawJS — [bibixx/warsawjs-workshop-21-zeppelin](https://github.com/bibixx/warsawjs-workshop-21-zeppelin)
