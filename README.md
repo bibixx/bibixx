@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Bartek and I'm a Product Engineer [@craftdocs](https://craft.do) & co-founder of [@bodgingbear](https://github.com/bodgingbear)
+I'm Bartek and I'm a Senior Product Engineer [@craftdocs](https://craft.do) & co-founder of [@bodgingbear](https://github.com/bodgingbear)
 
 ### 💬 Some of my past talks
 * [WTF JS? [PL]](https://www.youtube.com/watch?v=PpkXrqdJKJo) ([Slides](https://slides.legiec.io/wtf-js/))
@@ -31,4 +31,8 @@ www: https://legiec.io/ \
 Twitter:  [@bibix1999](https://twitter.com/bibix1999)
 
 ### 📈 My GitHub stats
-![Bartek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibixx&show_icons=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bibixx&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bibixx&theme=light&hide_border=false&include_all_commits=true&count_private=true&border_color=d0d7de">
+  <img alt="Bartek's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bibixx&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&border_color=30363d">
+</picture>
