@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Bartek and I'm a Senior Product Engineer [@craftdocs](https://craft.do) & co-founder of [@bodgingbear](https://github.com/bodgingbear)
+I'm Bartek and I'm a Senior Product Engineer [@craftdocs](https://craft.do), co-founder of [@bodgingbear](https://github.com/bodgingbear) and [zium.app](https://zium.app)
 
 ### 💬 Some of my past talks
 * [WTF JS? [PL]](https://www.youtube.com/watch?v=PpkXrqdJKJo) ([Slides](https://slides.legiec.io/wtf-js/))
