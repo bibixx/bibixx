@@ -15,6 +15,7 @@ I'm Bartek and I'm a Senior Product Engineer [@craftdocs](https://craft.do) & co
 * React Basics @ WarsawJS — [bibixx/warsawjs-workshop-20-flights-search](https://github.com/bibixx/warsawjs-workshop-20-flights-search)
 
 ### 👨🏻‍💻 Some Open Source I do
+* zium.app — [bibixx/zium.app](https://github.com/bibixx/zium.app)
 * React Adobe Animate — [bibixx/react-adobe-animate](https://github.com/bibixx/react-adobe-animate)
 * Zdaj.se — [bibixx/zdaj-se-pjatk](https://github.com/bibixx/zdaj-se-pjatk)
 * Tab pinner — [bibixx/tab-pinner](https://github.com/bibixx/tab-pinner)
