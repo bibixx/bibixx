@@ -3,6 +3,7 @@ I'm Bartek and I'm a Senior Product Engineer [@craftdocs](https://craft.do), co-
 
 ### 💬 Some of my past talks
 * [WTF JS? [PL]](https://www.youtube.com/watch?v=PpkXrqdJKJo) ([Slides](https://slides.legiec.io/wtf-js/))
+* [Disclaimer: This is not legal advice [EN]](https://www.youtube.com/watch?v=PrvDNJw67Yw) ([Slides](https://slides.legiec.io/not-legal-advice))
 * [A journey of a single request [EN]](https://www.youtube.com/watch?v=D1wykjTstr4) ([Slides](https://slides.legiec.io/a-journey-of-a-single-request/#/))
 * [Roboty i JavaScript czyli jak posypać ranę solą [PL]](https://www.youtube.com/watch?v=VR4YuuP3JHs)
 * [SSR made easy – Next.js [EN]](https://www.youtube.com/watch?v=F2-I3FMreog)
